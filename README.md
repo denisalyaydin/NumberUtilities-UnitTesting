@@ -1,0 +1,1 @@
+A C# unit testing project using NUnit, focused on testing a method that filters numbers divisible by three from a list. Includes test cases for empty and null lists, negative numbers, duplicate values, and lists with no matching numbers.
